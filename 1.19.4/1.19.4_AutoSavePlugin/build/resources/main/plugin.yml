@@ -1,0 +1,6 @@
+name: AutoSaveExample
+version: 1.0
+main: com.example.autosave.AutoSaveExample
+api-version: 1.19
+description: 월드 자동 저장 플러그인 예제
+author: Lee Dong Won
