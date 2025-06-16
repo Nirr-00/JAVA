@@ -2,7 +2,7 @@
 ├── version_list.md
 
 02_버전/
-├── v1.19.4/
-│   └── main.java
+├── v1.19.4
+└── main.java
 ├── v2.0/
-│   └── main.java
+└── main.java
