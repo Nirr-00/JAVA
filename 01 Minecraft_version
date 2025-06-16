@@ -1,8 +1,8 @@
 01_버전목록/
-├── version_list.md
+├── 01 Minecraft_version
 
 02_버전/
-├── v1.0/
-│   └── main.java
+├── v1.19.4
+│   └── 02 Minecraft_1.19.4
 ├── v2.0/
 │   └── main.java
