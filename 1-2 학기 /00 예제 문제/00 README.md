@@ -1,7 +1,7 @@
 # 1-2 자바
 
 ## 소개
-명품 JAVA programming 개정5판 예제 문제 실습
+명품 JAVA programming 개정5판 예제 문제
 
 ## 버전
 - 00 README.md
