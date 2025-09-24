@@ -4,7 +4,6 @@
 명품 JAVA programming 개정5판 실습 문제
 
 ## 버전
-- 00 README.md
 - 01 Adjustment.java
 - 02 Birthday.java
 - 03 Price.java
